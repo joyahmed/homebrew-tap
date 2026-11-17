@@ -1,6 +1,6 @@
 cask "velkrys" do
-  version "0.1.2"
-  sha256 "b6d741e76c4a0eedf8f27b2ea6a0305cba42e49599132bd95c7402dbbd849cc8"
+  version "0.1.3"
+  sha256 "ed6f322e9705af9a4cec9dc11fb0095f3eacc96e6dfa4fe86010776305f4b984"
 
   url "https://github.com/joyahmed/velkrys/releases/download/v#{version}/Velkrys_#{version}_universal.dmg"
   name "Velkrys"
